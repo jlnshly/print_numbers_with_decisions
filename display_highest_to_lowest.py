@@ -1,6 +1,6 @@
 #Ask user input
 #Set a loop
-#Set the conditions to find lowest number
+#Set the conditions to find highest number
 number_list = []
 while True:
     try:
